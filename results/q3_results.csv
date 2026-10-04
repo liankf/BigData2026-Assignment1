@@ -1,0 +1,5 @@
+﻿source_version,result_origin,cuda_allocator_config,run_tag,method,rank,component,gsm8k_accuracy,gsm8k_correct,gsm8k_total,math_accuracy,math_correct,math_total,train_seconds,train_minutes
+11,reused_saved_result,native (default),metamath_pissa_default_r16,pissa,16,default,0.167,167,1000,0.041,41,1000,4115.782910894,68.59638184823334
+15,current_execution,native (default),metamath_pissa_quarter_r16,pissa,16,quarter,0.12,120,1000,0.026,26,1000,3909.343990483,65.15573317471667
+15,current_execution,native (default),metamath_pissa_half_r16,pissa,16,half,0.121,121,1000,0.02,20,1000,3908.6990435079997,65.14498405846666
+15,current_execution,native (default),metamath_pissa_bottom_r16,pissa,16,bottom,0.118,118,1000,0.022,22,1000,3908.097623392001,65.13496038986668
